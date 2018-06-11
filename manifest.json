@@ -1,0 +1,8 @@
+{
+  "name": "Identity",
+  "description": "Maintains a persistant identity even as inputs change",
+  "icons": [{
+    "src": "images/icon.png",
+    "sizes": "22x22"
+  }]
+}

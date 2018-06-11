@@ -1,0 +1,12 @@
+{
+  "appName": "identity.aragonpm.eth",
+  "version": "2.0.0",
+  "roles": [
+    {
+      "name": "Forward actions",
+      "id": "FORWARD_ROLE",
+      "params": []
+    }
+  ],
+  "path": "contracts/Identity.sol"
+}
