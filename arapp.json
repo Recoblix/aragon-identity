@@ -1,6 +1,6 @@
 {
-  "appName": "identity.aragonpm.eth",
-  "version": "2.0.0",
+  "appName": "recoblix-identity.aragonpm.eth",
+  "version": "1.0.0",
   "roles": [
     {
       "name": "Forward actions",
